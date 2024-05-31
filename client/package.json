@@ -1,0 +1,52 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "1.5.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/base": "^5.0.0-beta.37",
+    "@mui/joy": "^5.0.0-beta.28",
+    "@mui/types": "^7.2.13",
+    "@tabler/icons-react": "^2.47.0",
+    "@types/form-data": "^2.5.0",
+    "@types/nodemon": "^1.19.6",
+    "@types/react-router-hash-link": "^2.4.9",
+    "antd": "^5.14.1",
+    "axios": "^1.6.7",
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.4.5",
+    "js-cookie": "^3.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1",
+    "react-router-hash-link": "^2.4.3",
+    "use-file-picker": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "@types/npm": "^7.19.3",
+    "@types/react": "^18.2.56",
+    "@types/react-dom": "^18.2.19",
+    "@typescript-eslint/eslint-plugin": "^7.0.2",
+    "@typescript-eslint/parser": "^7.0.2",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "autoprefixer": "^10.4.17",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "install": "^0.13.0",
+    "postcss": "^8.4.35",
+    "tailwind-scrollbar": "^3.1.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.4"
+  }
+}

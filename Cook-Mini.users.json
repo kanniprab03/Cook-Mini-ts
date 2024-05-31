@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "65e2c18a517954025b79307c"
+  },
+  "name": "kannikesh",
+  "email": "kannikeshprabhu3@gmail.com",
+  "password": "$2a$10$i.CdW/5d9ukIhY9mGeKAHei12ohfatnmWF8uk1teH4I97ENzP267.",
+  "role": "creator",
+  "loginCount": 30,
+  "isVerified": {
+    "user": true,
+    "admin": false,
+    "creator": false
+  },
+  "createdAt": {
+    "$date": "2024-03-02T06:05:01.003Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T04:41:45.021Z"
+  },
+  "__v": 0,
+  "savedRecipes": [
+    "65f000ba2c2e8335e10967bf",
+    "65e71c02e336e6abf5a79dfd"
+  ],
+  "profileImg": "1710738662784-524723731-chef-hat.svg"
+},
+{
+  "_id": {
+    "$oid": "65e5b7b0c7f91c2b028d988b"
+  },
+  "name": "admin",
+  "email": "kannikeshprabhu.college@gmail.com",
+  "password": "$2a$10$o1JhWpc2dzKFSB9Pyr0vU.NCdWFmq.o4edC8YgTjZyJeVsNCIUCDK",
+  "role": "admin",
+  "loginCount": 20,
+  "isVerified": {
+    "user": true,
+    "admin": true,
+    "creator": false
+  },
+  "createdAt": {
+    "$date": "2024-03-04T11:59:53.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-31T14:44:14.944Z"
+  },
+  "__v": 0,
+  "savedRecipes": [
+    "65e70c78daa0e3b41f0b87bd",
+    "65e7ec86ffc68d869dffad5b",
+    "65e9477df79abb3a2d9bb90b"
+  ],
+  "profileImg": "1710224703643-164983913-turkey.webp"
+},
+{
+  "_id": {
+    "$oid": "65e941979e20c39201205062"
+  },
+  "name": "hopas",
+  "email": "hopas23012@artgulin.com",
+  "password": "$2a$10$F5337zJgzosNH7TjKfpxEuwxhuzGqQWPF7JRAWDRCjctD9WQo/lQC",
+  "role": "user",
+  "loginCount": 6,
+  "isVerified": {
+    "user": true,
+    "admin": false,
+    "creator": false
+  },
+  "createdAt": {
+    "$date": "2024-03-07T04:24:58.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T13:22:45.982Z"
+  },
+  "__v": 6,
+  "savedRecipes": [
+    "65e70c78daa0e3b41f0b87bd"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7110ee16fafa9b392b58a"
+  },
+  "name": "Client",
+  "email": "client@gmail.com",
+  "password": "$2a$10$SCqax2mr4Fj4gQdo1U8ssu.D3Q/HeAn2CsEUB8RDmmddtbywmcy.y",
+  "role": "user",
+  "loginCount": 5,
+  "savedRecipes": [
+    "65e71c02e336e6abf5a79dfd"
+  ],
+  "createdAt": {
+    "$date": "2024-03-17T15:49:34.214Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T04:24:55.993Z"
+  },
+  "__v": 0,
+  "profileImg": "1712031895975-391153340-1343743.png"
+},
+{
+  "_id": {
+    "$oid": "65f7113ee16fafa9b392b58e"
+  },
+  "name": "Client",
+  "email": "client2@gmail.com",
+  "password": "$2a$10$qIlbexUnumv4UmjOtDPvHeFACjX/e3Y3B1VvMxCApHpObIluAn5Je",
+  "role": "creator",
+  "loginCount": 2,
+  "savedRecipes": [],
+  "createdAt": {
+    "$date": "2024-03-17T15:50:22.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T06:03:07.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7e1a53b01beb44d84cef6"
+  },
+  "name": "user",
+  "email": "user@web.com",
+  "password": "$2a$10$uuJnB3/I7.5tGqxjaXEmVOSPLFw4jxviBhWX71/RS02qClt7jpkaq",
+  "role": "admin",
+  "loginCount": 4,
+  "savedRecipes": [],
+  "createdAt": {
+    "$date": "2024-03-18T06:39:33.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T07:11:09.557Z"
+  },
+  "__v": 0,
+  "profileImg": "1710745803932-288051732-Max-R_Headshot (1).jpg"
+},
+{
+  "_id": {
+    "$oid": "6609750676ce8391a56dcfe3"
+  },
+  "name": "Im a User",
+  "email": "user1@gmail.com",
+  "password": "$2a$10$vh0H9hpHFa586W7EiBk/0.gV7CbEXZJld2c8iZOPKwxa/VR.A5sOW",
+  "role": "user",
+  "loginCount": 5,
+  "savedRecipes": [],
+  "createdAt": {
+    "$date": "2024-03-31T14:36:54.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T03:57:29.138Z"
+  },
+  "__v": 0,
+  "profileImg": "1711896377887-108045135-Max-R_Headshot (1).jpg"
+}]

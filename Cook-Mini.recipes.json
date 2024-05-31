@@ -1,0 +1,794 @@
+[{
+  "_id": {
+    "$oid": "65e70c78daa0e3b41f0b87bd"
+  },
+  "title": "Easy One-Pot Mac ‘n’ Cheese",
+  "description": "This easy mac and cheese is a quick and delicious dinner option for busy weeknights! Elbow macaroni is cooked right in the same pot with milk, butter, and Cheddar cheese, resulting in a creamy and comforting dish that's sure to please everyone. Add in some chopped bacon or cooked veggies for a twist on the classic recipe, or enjoy it as-is for a simple and satisfying meal.",
+  "ingredients": [
+    {
+      "ingredient": "5 cups whole milk(1.25 L)",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87be"
+      }
+    },
+    {
+      "ingredient": "1 box elbow macaroni",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87bf"
+      }
+    },
+    {
+      "ingredient": "½ cup unsalted butter(115 g)",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87c0"
+      }
+    },
+    {
+      "ingredient": "2 cups cheddar cheese(200 g)",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87c1"
+      }
+    },
+    {
+      "ingredient": "salt, to taste",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87c2"
+      }
+    },
+    {
+      "ingredient": "pepper, to taste",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87c3"
+      }
+    },
+    {
+      "ingredient": "fresh parsley, to serve",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87c4"
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "name": "In a large pot on medium-high heat, gently bring the milk to a simmer over medium heat. Add the macaroni and cook until tender. Remove the pot from the heat.",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87c5"
+      }
+    },
+    {
+      "name": "Add the butter, cheddar, salt, and pepper to the noodles and stir until the cheese and butter melt into the milk to create a thick sauce that coats the noodles.",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87c6"
+      }
+    },
+    {
+      "name": "Sprinkle with parsley and serve.",
+      "_id": {
+        "$oid": "65ed4c284270b36f06a761d8"
+      }
+    },
+    {
+      "name": "Enjoy!",
+      "_id": {
+        "$oid": "65e70c78daa0e3b41f0b87c8"
+      }
+    }
+  ],
+  "advanced": {
+    "visibility": true,
+    "saveRecipe": true,
+    "likeRecipe": true,
+    "commentRecipe": true,
+    "_id": {
+      "$oid": "65e70c78daa0e3b41f0b87c9"
+    }
+  },
+  "creatorId": "65e2c18a517954025b79307c",
+  "status": "published",
+  "img": "1709640824848-900960815-easy-homemade-mac-and-cheese-recipe-4.webp",
+  "prepTime": "20 Minutes",
+  "category": [],
+  "__v": 0,
+  "visitCount": [
+    "65e5b7b0c7f91c2b028d988b",
+    "65e2c18a517954025b79307c",
+    "65e941979e20c39201205062",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "6609750676ce8391a56dcfe3"
+  ],
+  "likeRecipe": [
+    "65e5b7b0c7f91c2b028d988b",
+    "65e941979e20c39201205062"
+  ],
+  "commentId": "65efe0d909de94c49d2598ce",
+  "updatedAt": {
+    "$date": "2024-04-02T03:58:39.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e7176de336e6abf5a7953a"
+  },
+  "title": "Air Fryer Monkey Bread Skewers New",
+  "description": "This sweet treat is a fun twist on a delicious classic. Homemade dough is rolled into balls, coated in cinnamon sugar, placed on skewers, and air-fried until golden perfection. Finish this fun breakfast or dessert with a vanilla glaze, and serve individually! New",
+  "ingredients": [
+    {
+      "_id": {
+        "$oid": "65eaa5c53b9c4ef7360dc2ea"
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "name": "Preheat the air fryer to 325°F (160°C). Grease the air fryer basket with avocado oil spray.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79541"
+      }
+    },
+    {
+      "name": "Make the topping: In a medium bowl, add the melted butter, brown sugar, and maple syrup. Use a spoon to mix until smooth. Set aside.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79542"
+      }
+    },
+    {
+      "name": "Make the coating: In a small bowl, mix the granulated sugar and cinnamon until well combined. Set aside.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79543"
+      }
+    },
+    {
+      "name": "Make the dough: In a large bowl, add the self-rising flour and Greek yogurt. Use a spoon to mix until a dough forms. The dough will be a bit sticky. Turn the dough out onto a floured surface, sprinkle the top with some more flour, and bring together with your hands. Divide the dough into 6 equal pieces, then divide each piece into 4 smaller pieces, for 24 pieces total.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79544"
+      }
+    },
+    {
+      "name": "Use your hands to roll each piece into a ball, then roll them in the cinnamon sugar until evenly coated. Slide 4 coated balls through each skewer.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79545"
+      }
+    },
+    {
+      "name": "Place the skewers into the prepared air fryer basket. Pour half of the topping over the top of the skewers.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79546"
+      }
+    },
+    {
+      "name": "Air fry for 9-10 minutes. Open the lid and pour the remaining topping over the skewers. Air fry for another 9-10 minutes, until golden brown.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79547"
+      }
+    },
+    {
+      "name": "Meanwhile, make the glaze: In a small bowl, whisk together the powdered sugar, milk, and vanilla until smooth.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79548"
+      }
+    },
+    {
+      "name": "Place the skewers on a plate and drizzle with the glaze.",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a79549"
+      }
+    },
+    {
+      "name": "Serve warm, and enjoy!",
+      "_id": {
+        "$oid": "65e7176de336e6abf5a7954a"
+      }
+    }
+  ],
+  "advanced": {
+    "visibility": true,
+    "saveRecipe": true,
+    "likeRecipe": true,
+    "commentRecipe": true,
+    "_id": {
+      "$oid": "65e7176de336e6abf5a7954b"
+    }
+  },
+  "creatorId": "65e2c18a517954025b79307c",
+  "status": "published",
+  "img": "1709643629345-52786699-486358.webp",
+  "prepTime": "40 Minutes",
+  "__v": 0,
+  "visitCount": [
+    "65e5b7b0c7f91c2b028d988b",
+    "65e2c18a517954025b79307c"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e71a7de336e6abf5a79a64"
+  },
+  "title": "Slow Cooker Pork Shoulder Cornbread Chili",
+  "description": "This hearty and comforting chili is a one-pot wonder that is perfect for chilly nights. Tender and juicy pork shoulder is slow-cooked to perfection with a blend of spices, then served over a bed of sweet and savory cornbread. The perfect balance of flavors and textures make this dish a family favorite.",
+  "ingredients": [
+    {
+      "ingredient": "2 lb pork shoulder(905 g), diced",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a65"
+      }
+    },
+    {
+      "ingredient": "1 tablespoon seasoned salt",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a66"
+      }
+    },
+    {
+      "ingredient": "1 tablespoon cumin",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a67"
+      }
+    },
+    {
+      "ingredient": "1 can kidney bean, drained",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a68"
+      }
+    },
+    {
+      "ingredient": "½ cup tomato(100 g), diced",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a69"
+      }
+    },
+    {
+      "ingredient": "½ onion, diced",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a6a"
+      }
+    },
+    {
+      "ingredient": "½ cup red enchilada sauce(120 mL)",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a6b"
+      }
+    },
+    {
+      "ingredient": "1 box cornbread mix, prepared according to instructions",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a6c"
+      }
+    },
+    {
+      "ingredient": "cheddar cheese, to top, optional",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a6d"
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "name": "Place the pork shoulder, seasoned salt, cumin, kidney beans, tomato, onion, and enchilada sauce in a 7-quart (6 ½ liters) slow cooker. Mix thoroughly.",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a6e"
+      }
+    },
+    {
+      "name": "Cook on high for 3 hours.",
+      "_id": {
+        "$oid": "65e71a7de336e6abf5a79a6f"
+      }
+    }
+  ],
+  "advanced": {
+    "visibility": true,
+    "saveRecipe": true,
+    "likeRecipe": true,
+    "commentRecipe": true,
+    "_id": {
+      "$oid": "65e71a7de336e6abf5a79a73"
+    }
+  },
+  "creatorId": "65e2c18a517954025b79307c",
+  "status": "published",
+  "img": "1709644413364-403327706-sub-buzz-1525-1698342408-4.webp",
+  "prepTime": "--",
+  "__v": 0,
+  "visitCount": [
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e2c18a517954025b79307c"
+  ],
+  "likeRecipe": [
+    "65e5b7b0c7f91c2b028d988b"
+  ],
+  "updatedAt": {
+    "$date": "2024-03-18T05:07:58.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e71c02e336e6abf5a79dfd"
+  },
+  "title": "Chickpea Sweet Potato Stew",
+  "description": "This Chickpea Sweet Potato Stew is a flavorful and satisfying vegan dish that is perfect for meal prep or a quick weeknight dinner. Loaded with protein and fiber from chickpeas and sweet potatoes, this stew will keep you full and satisfied. ",
+  "ingredients": [
+    {
+      "ingredient": "2 tablespoons refined coconut oil",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79dfe"
+      }
+    },
+    {
+      "ingredient": "1 small onion, diced",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79dff"
+      }
+    },
+    {
+      "ingredient": "3 cloves garlic, minced",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e00"
+      }
+    },
+    {
+      "ingredient": "1 teaspoon ginger, minced",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e01"
+      }
+    },
+    {
+      "ingredient": "1 tablespoon sweet paprika",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e02"
+      }
+    },
+    {
+      "ingredient": "½ teaspoon cumin",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e03"
+      }
+    },
+    {
+      "ingredient": "¼ teaspoon dried coriander",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e04"
+      }
+    },
+    {
+      "ingredient": "⅛ teaspoon cayenne",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e05"
+      }
+    },
+    {
+      "ingredient": "15 oz canned chickpeas(425 g), drained and rinsed",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e06"
+      }
+    },
+    {
+      "ingredient": "2 cups peeled and diced sweet potatoes(400 g)",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e07"
+      }
+    },
+    {
+      "ingredient": "15 oz canned fire-roasted crushed tomatoes(425 g)",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e08"
+      }
+    },
+    {
+      "ingredient": "3 cups vegetable broth(720 mL)",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e09"
+      }
+    },
+    {
+      "ingredient": "5 oz fresh spinach(140 g)",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e0a"
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "name": "In large pot or Dutch oven, heat the coconut oil over medium heat. Once the oil begins to shimmer, add the onion and cook for 4-5 minutes, or until the onion is semi-translucent.",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e0b"
+      }
+    },
+    {
+      "name": "Add the garlic and ginger, and cook for 2-3 more minutes, until fragrant. Then add the sweet paprika, cumin, coriander, and cayenne and cook for 2 more minutes, until fragrant.",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e0c"
+      }
+    },
+    {
+      "name": "Add the chickpeas, sweet potatoes, crushed tomatoes, and vegetable broth, and bring to a boil. Reduce the heat to medium-low and simmer for 15-20 minutes, or until the sweet potatoes are tender.",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e0d"
+      }
+    },
+    {
+      "name": "Add the spinach and stir until wilted.",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e0e"
+      }
+    },
+    {
+      "name": "Serve immediately.",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e0f"
+      }
+    },
+    {
+      "name": "Enjoy!",
+      "_id": {
+        "$oid": "65e71c02e336e6abf5a79e10"
+      }
+    }
+  ],
+  "advanced": {
+    "visibility": true,
+    "saveRecipe": true,
+    "likeRecipe": true,
+    "commentRecipe": true,
+    "_id": {
+      "$oid": "65efda49245b12439bb4a765"
+    }
+  },
+  "creatorId": "65e2c18a517954025b79307c",
+  "status": "published",
+  "img": "1709644802942-412777827-sub-buzz-931-1701295672-8.webp",
+  "prepTime": "under 30 Minutes",
+  "__v": 0,
+  "visitCount": [
+    "65e2c18a517954025b79307c",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e2c18a517954025b79307c",
+    "65f7110ee16fafa9b392b58a",
+    "65f7e1a53b01beb44d84cef6",
+    "6609750676ce8391a56dcfe3"
+  ],
+  "likeRecipe": [
+    "65e2c18a517954025b79307c",
+    "65f7110ee16fafa9b392b58a"
+  ],
+  "commentId": "65efdade245b12439bb4a844",
+  "updatedAt": {
+    "$date": "2024-03-31T14:46:25.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e71d5ce336e6abf5a7a0ad"
+  },
+  "title": "Pesto Turkey Pinwheels",
+  "description": "Whip up these delightful Pesto Turkey Pinwheels for a fun and flavorful twist on a classic sandwich. Perfect for lunchboxes or picnics, these bite-sized treats are sure to be a hit with the whole crowd!",
+  "ingredients": [
+    {
+      "ingredient": "2 large flour tortillas",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0ae"
+      }
+    },
+    {
+      "ingredient": "¼ cup pesto(55 g), divided",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0af"
+      }
+    },
+    {
+      "ingredient": "1 cup cherry tomato(200 g), halved, divided",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b0"
+      }
+    },
+    {
+      "ingredient": "½ lb turkey(225 g), sliced, divided",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b1"
+      }
+    },
+    {
+      "ingredient": "2 oz baby spinach(55 g), divided",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b2"
+      }
+    },
+    {
+      "ingredient": "4 slices provolone cheese, halved",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b3"
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "name": "Warm the tortillas in the microwave in 30-second intervals, until flexible. Transfer to a clean work surface.",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b4"
+      }
+    },
+    {
+      "name": "Spread on half the pesto on each tortilla.",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b5"
+      }
+    },
+    {
+      "name": "Divide the tomatoes, turkey, spinach, and provolone between the tortillas.",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b6"
+      }
+    },
+    {
+      "name": "Wrap the tortillas tightly in plastic wrap and rest for 30 minutes.",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b7"
+      }
+    },
+    {
+      "name": "Stick 6 toothpicks 1-inch (2.5 cm) apart into the wraps along the seam.",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b8"
+      }
+    },
+    {
+      "name": "Slice between the toothpicks and serve.",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0b9"
+      }
+    },
+    {
+      "name": "Enjoy!",
+      "_id": {
+        "$oid": "65e71d5ce336e6abf5a7a0ba"
+      }
+    }
+  ],
+  "advanced": {
+    "visibility": true,
+    "saveRecipe": true,
+    "likeRecipe": true,
+    "commentRecipe": true,
+    "_id": {
+      "$oid": "65e71d5ce336e6abf5a7a0bb"
+    }
+  },
+  "creatorId": "65e2c18a517954025b79307c",
+  "status": "published",
+  "img": "1709645148280-940516709-sub-buzz-1381-1682370778-14.webp",
+  "prepTime": "under 30 Minutes ",
+  "__v": 0,
+  "visitCount": [
+    "65e5b7b0c7f91c2b028d988b",
+    "65e2c18a517954025b79307c",
+    "65e5b7b0c7f91c2b028d988b",
+    "65f7110ee16fafa9b392b58a",
+    "65f7e1a53b01beb44d84cef6"
+  ],
+  "updatedAt": {
+    "$date": "2024-03-18T07:09:34.937Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e7ec86ffc68d869dffad5b"
+  },
+  "title": "Tofu Lettuce Wraps with Mushrooms",
+  "description": "Flavorful and healthy wraps made with ground chicken, water chestnuts, and veggies, wrapped in lettuce leaves and served with a delicious soy and ginger sauce. A light and refreshing meal option.",
+  "ingredients": [
+    {
+      "ingredient": "1 cup water(240 mL)",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad5c"
+      }
+    },
+    {
+      "ingredient": "½ cup soy sauce(120 mL)",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad5d"
+      }
+    },
+    {
+      "ingredient": "¼ cup sesame oil(60 mL)",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad5e"
+      }
+    },
+    {
+      "ingredient": "6 cloves garlic, minced",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad5f"
+      }
+    },
+    {
+      "ingredient": "1 tablespoon minced fresh ginger",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad60"
+      }
+    },
+    {
+      "ingredient": "¼ cup brown sugar(55 g)",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad61"
+      }
+    },
+    {
+      "ingredient": "2 tablespoons sriracha",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad62"
+      }
+    },
+    {
+      "ingredient": "¼ cup rice wine vinegar(60 mL)",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad63"
+      }
+    },
+    {
+      "ingredient": "⅓ cup sliced scallions(35 g)",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad64"
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "name": "Remove the tofu from its packaging and drain. Wrap the tofu in a kitchen towel, then place a heavy object on top of the tofu and press for 10–20 minutes, until the tofu feels more tender.",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad65"
+      }
+    },
+    {
+      "name": "Make the sauce: In a medium bowl, combine the water, soy sauce, sesame oil, garlic, ginger, sriracha, brown sugar, rice wine vinegar, and scallions and stir to dissolve the sugar. Set ½ cup (120 mL) of the sauce aside.",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad66"
+      }
+    },
+    {
+      "name": "Crumble the pressed tofu into the remaining marinade, then cover and refrigerate for 1 hour.",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad67"
+      }
+    },
+    {
+      "name": "Heat the sesame oil in a medium skillet or work over medium heat. Add the onion and sauté for 3 minutes, until translucent. Add the mushrooms and cook for about 5 minutes, or until tender, then stir in the garlic and cook for 1 minute, until fragrant.",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad68"
+      }
+    },
+    {
+      "name": "Add the tofu and its marinade to the pan and cook until the majority of the liquid cooks off. Add the water chestnuts and scallions. Pour in three-quarters of the reserved sauce. Toss to coat the tofu and cook until just heated through. Transfer the tofu mixture to a medium bowl.",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad69"
+      }
+    },
+    {
+      "name": "Heat the canola oil in the same pan over high heat until a drop of water sizzles when flicked onto the oil. Add the rice noodles and fry for about 30 seconds, until puffed up. Transfer the fried noodles to paper towels to drain.",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad6a"
+      }
+    },
+    {
+      "name": "Remove the core from the head of lettuce, then separate into individual leaves.",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad6b"
+      }
+    },
+    {
+      "name": "Serve the tofu in the lettuce cups and top with the crispy rice noodles and a drizzle of the remaining sauce.",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad6c"
+      }
+    },
+    {
+      "name": "Enjoy!",
+      "_id": {
+        "$oid": "65e7ec86ffc68d869dffad6d"
+      }
+    }
+  ],
+  "advanced": {
+    "visibility": true,
+    "saveRecipe": true,
+    "likeRecipe": true,
+    "commentRecipe": true,
+    "_id": {
+      "$oid": "65e7ec86ffc68d869dffad6e"
+    }
+  },
+  "creatorId": "65e2c18a517954025b79307c",
+  "status": "published",
+  "img": "1709698182109-898113284-sub-buzz-811-1682370783-3.webp",
+  "prepTime": "--",
+  "__v": 0,
+  "visitCount": [
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e5b7b0c7f91c2b028d988b",
+    "65e2c18a517954025b79307c"
+  ],
+  "updatedAt": {
+    "$date": "2024-03-18T05:57:56.553Z"
+  },
+  "commentId": "65f7d7e43b01beb44d84cb2a"
+},
+{
+  "_id": {
+    "$oid": "65e9477df79abb3a2d9bb90b"
+  },
+  "title": "Weekday Meal-Prep Turkey Taco Bowls",
+  "description": "Say hello to your new favorite lunchtime savior: Weekday Meal-Prep Turkey Taco Bowls! These flavor-packed bowls are perfect for busy bees looking to spice up their meal prep game.",
+  "ingredients": [
+    {
+      "ingredient": "2 tablespoons oil",
+      "_id": {
+        "$oid": "65e9477df79abb3a2d9bb90c"
+      }
+    },
+    {
+      "ingredient": "1 large red onion, sliced 1 teaspoon salt 1 teaspoon pepper 1 lb ground turkey(455 g) 1 tablespoon taco seasoning, 1 packet 28 oz diced tomato(795 g), 1 can, drained 2 cups rice(460 g), cooked 1 can black beans, drained, rinsed 1 can corn 1 jar salsa 1 lime, sliced into wedges cheddar cheese fresh cilantro, for garnish",
+      "_id": {
+        "$oid": "65e9477df79abb3a2d9bb90d"
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "name": "Heat oil in a large skillet over medium-high heat",
+      "_id": {
+        "$oid": "65e9477df79abb3a2d9bb90e"
+      }
+    },
+    {
+      "name": "Add the peppers and onions and season with salt and pepper, to taste. Cook, stirring occasionally, until vegetables have softened. Remove from pan, set aside.",
+      "_id": {
+        "$oid": "65e9477df79abb3a2d9bb90f"
+      }
+    },
+    {
+      "name": "Add ground turkey to hot skillet. Break apart with a wooden spoon to separate.",
+      "_id": {
+        "$oid": "65e9477df79abb3a2d9bb910"
+      }
+    }
+  ],
+  "advanced": {
+    "visibility": true,
+    "saveRecipe": true,
+    "likeRecipe": true,
+    "commentRecipe": true,
+    "_id": {
+      "$oid": "65effb87e7e25822ff8e2498"
+    }
+  },
+  "creatorId": "65e2c18a517954025b79307c",
+  "status": "published",
+  "img": "1710074417951-742482000-sub-buzz-3966-1672349993-9.webp",
+  "prepTime": "-- ",
+  "visitCount": [
+    "65e5b7b0c7f91c2b028d988b",
+    "65e2c18a517954025b79307c",
+    "65e941979e20c39201205062"
+  ],
+  "__v": 0,
+  "likeRecipe": [
+    "65e5b7b0c7f91c2b028d988b"
+  ],
+  "commentId": "65efefa5c35f039f99aaff80",
+  "updatedAt": {
+    "$date": "2024-03-17T16:04:52.988Z"
+  }
+}]
